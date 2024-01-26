@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Nayek</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+🚀 Full Stack JS Developer | 6+ Years Experience | FHIR | React.js | Node.js | ElasticSearch | MongoDB | Docker | AWS | Angular | Python 🐍 | Domain Expertise: Healthcare, Retail, Banking | Code Craftsman | Let's build scalable solutions together! 💻✨
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit006&label=Profile%20views&color=0e75b6&style=flat" alt="amit006" /> </p>
 
