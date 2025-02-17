@@ -1,6 +1,8 @@
 # Hi, I'm Amit 👋 🧑‍💻
 
-🚀 Full Stack JS Developer | 6+ Years Experience | FHIR | React.js | Node.js | ElasticSearch | MongoDB | Docker | AWS | Angular | Python 🐍 | Domain Expertise: Healthcare, Retail, Banking | Code Craftsman | Let's build scalable solutions together! 💻✨
+🚀 FULL STACK DEVELOPER | 7+ YEARS EXPERIENCE | FHIR | REACT.JS | NODE.JS | ELASTICSEARCH | MONGODB | DOCKER | AWS | ANGULAR | PYTHON 🐍 | DOMAIN EXPERTISE: HEALTHCARE, REAL ESTATE, DATA ANALYTICS | CODE CRAFTSMAN | LET'S BUILD SCALABLE SOLUTIONS TOGETHER! 💻✨
+
+
 
 <p align="left"> <img style="margin-right:'5px'" src="https://komarev.com/ghpvc/?username=amit006&label=Profile%20views&color=0e75b6&style=flat" alt="amit006" /> </p>
 
